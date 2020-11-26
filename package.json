@@ -1,0 +1,23 @@
+{
+  "name": "skeletons",
+  "version": "1.0.0",
+  "description": "Front-web template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lujinggirl/skeletons.git"
+  },
+  "keywords": [
+    "web",
+    "template"
+  ],
+  "author": "echo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lujinggirl/skeletons/issues"
+  },
+  "homepage": "https://github.com/lujinggirl/skeletons#readme"
+}
