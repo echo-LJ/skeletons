@@ -19,5 +19,13 @@
   "bugs": {
     "url": "https://github.com/lujinggirl/skeletons/issues"
   },
-  "homepage": "https://github.com/lujinggirl/skeletons#readme"
+  "homepage": "https://github.com/lujinggirl/skeletons#readme",
+  "devDependencies": {
+    "cz-conventional-changelog": "^3.3.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
 }
